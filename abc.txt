@@ -1,0 +1,28 @@
+<!DOCTYPE html>
+</html>
+  <head>
+    <title>edwinau.com</title>
+    <link href="marbelhome.css" type="text/css" rel="stylesheet"/>
+    <meta charset="UTF-8"/>
+  </head>
+
+  <body background="whitemarbel.jpg">
+    <h1> [ EDWIN AU ]
+    </h1>
+
+    <hr size=5 color=#2f3037>
+
+  <h2>
+    <p class="left"><a href="inANut.htm">[ IN A NUTSHELL ]</a>
+    </p>
+    <p class="center"><a href="http://www.edwinau.portfoliobox.net" target="_blank">[ PORTFOLIO ]</a>
+    </p>
+    <p class="right"><a href=marbelcontact.htm>[ CONTACT ]</a>
+    </p>
+  </h2>
+  </body>
+
+  <footer>
+  </footer>
+</html>
+ 
